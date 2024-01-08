@@ -3,7 +3,7 @@
 
 <p align="center"><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*PhrLSivg-ozSVYcIDR7qZw.gif" width="50%" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohabhg&label=Profile%20views&color=0e75b6&style=flat" alt="mohabhg" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohabhg&label=Profile%20views&color=0e75b6&style=flat" alt="mohabhg" /> </p> -->
 
 - 💬 Ask me about **javascript, typescript, vue, react**
 
