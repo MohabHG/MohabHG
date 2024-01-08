@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohab Hamdy</h1>
-<h3 align="center">A passionate full stack web developer from Egypt <img src="https://flagemoji.com/wp-content/uploads/2020/02/Flag_of_Egypt.svg" width="16" height="16" /> </h3>
+<h3 align="center">Full stack web developer from Egypt <img src="https://flagemoji.com/wp-content/uploads/2020/02/Flag_of_Egypt.svg" width="16" height="16" /> </h3>
 
 <p align="center"><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*PhrLSivg-ozSVYcIDR7qZw.gif" width="50%" /></p>
 
