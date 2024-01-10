@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohab Hamdy</h1>
 <h3 align="center">Full Stack Web Developer <!-- <img src="https://flagemoji.com/wp-content/uploads/2020/02/Flag_of_Egypt.svg" width="16" height="16" /> --> </h3>
 
-<p align="center"><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*PhrLSivg-ozSVYcIDR7qZw.gif" width="50%" /></p>
+<!-- <p align="center"><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*PhrLSivg-ozSVYcIDR7qZw.gif" width="50%" /></p> -->
+
+<p align="center"><img src="https://assets-global.website-files.com/5be365b4ae1f663f89c67b33/6283f13d4742a293da729ee6_typescript-javascript-blog-header.jpg" width="50%" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohabhg&label=Profile%20views&color=0e75b6&style=flat" alt="mohabhg" /> </p>
 
