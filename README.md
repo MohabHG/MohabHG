@@ -11,8 +11,8 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,javascript,typescript,react,vue,next,nuxt,vite,nodejs,express,deno,nestjs,babel,webpack,postgres,mysql,sqlite,mongodb,prisma,docker,vercel,git,github,linux,postman,vscode,atom&perline=8&theme=light)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mohabhg0&theme=default&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mohabhg0&theme=default&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohabhg0&theme=default&hide_border=true&include_all_commits=true&count_private=tru&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=mohabhg0&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mohabhg0&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohabhg0&theme=react&hide_border=true&include_all_commits=true&count_private=tru&layout=compact)
 
 <p align="center">Javascript-Typescript ❤️</p>
